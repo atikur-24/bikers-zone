@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+body {
+    font-family: 'Poppins', sans-serif !important;
+}
+.bz-btn-light-green {
+    background-color: #62a9af !important;
+}
+.bz-text {
+    color: #259faa !important;
+}
+.bz-bg-green {
+    background-color: #1b9ba7 !important;
+}
+.bz-border-green {
+    border-color: #1b9ba7 !important;
+}
+.bz-icon-size {
+    width: 20px !important;
+}
